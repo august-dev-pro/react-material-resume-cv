@@ -1,3 +1,6 @@
+
+![Screenshot 2024-02-25 at 14-46-09 Material resume cv](https://github.com/august-dev-pro/react-material-resume-cv/assets/143771382/feff85eb-6253-4035-8e1f-b5f4d471eb61)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
